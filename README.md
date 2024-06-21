@@ -60,9 +60,7 @@ You can download the dataset from [here](https://forms.gle/SPYEEmpkX7peAtyB8)
 
 Feel free to contact us for any further information via below channels.
 
-###### Supervisor: Dr. Hadi Ghattan Kashani
-
-- Email: [*hghattan@gmail.com*](hghattan@gmail.com)
+- Email: [*alikarimi120@gmail.com*](alikarimi120@gmail.com)
 
 
 ## Citation
